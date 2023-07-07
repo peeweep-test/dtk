@@ -1,3 +1,9 @@
+dtk (5.6.13) unstable; urgency=medium
+
+  * Create commitlint.yml
+
+ -- Deepin Packages Builder <packages@deepin.org>  Fri, 07 Jul 2023 16:53:04 +0800
+
 dtk (5.6.12) unstable; urgency=medium
 
   * Initial release.
