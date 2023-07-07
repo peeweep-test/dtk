@@ -1,0 +1,8 @@
+name: Lint Commit Messages
+on:
+  # pull_request_target:
+  pull_request:
+
+jobs:
+  check_job:
+    uses: linuxdeepin/.github/.github/workflows/commitlint.yml@master
