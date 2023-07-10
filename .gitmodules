@@ -1,20 +1,20 @@
 [submodule "dtkcommon"]
 	path = dtkcommon
-	url = https://github.com/linuxdeepin/dtkcommon
+	url = https://github.com/peeweep-test/dtkcommon
 	branch = master
 [submodule "dtkcore"]
 	path = dtkcore
-	url = https://github.com/linuxdeepin/dtkcore
+	url = https://github.com/peeweep-test/dtkcore
 	branch = master
 [submodule "dtkgui"]
 	path = dtkgui
-	url = https://github.com/linuxdeepin/dtkgui
+	url = https://github.com/peeweep-test/dtkgui
 	branch = master
 [submodule "dtkwidget"]
 	path = dtkwidget
-	url = https://github.com/linuxdeepin/dtkwidget
+	url = https://github.com/peeweep-test/dtkwidget
 	branch = master
 [submodule "dtkdeclarative"]
 	path = dtkdeclarative
-	url = https://github.com/linuxdeepin/dtkdeclarative
+	url = https://github.com/peeweep-test/dtkdeclarative
 	branch = master
