@@ -1,3 +1,10 @@
+dtk (5.6.14) unstable; urgency=medium
+
+  * Create commitlint.yml
+  * chore: delete submodules
+
+ -- Deepin Packages Builder <packages@deepin.org>  Mon, 10 Jul 2023 17:36:41 +0800
+
 dtk (5.6.12) unstable; urgency=medium
 
   * Initial release.
